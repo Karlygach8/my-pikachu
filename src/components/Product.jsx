@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Pokemon = () => {
+const Product = () => {
   return (
     <div>
       
@@ -8,4 +8,4 @@ const Pokemon = () => {
   )
 }
 
-export default Pokemon
+export default Product
